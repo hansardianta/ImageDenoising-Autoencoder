@@ -1,13 +1,13 @@
 
 # Image Denoising with Autoencoder - Kirmizi & Siirt Beans
 
-This repository contains an implementation of an **Autoencoder for Image Denoising**, trained on a dataset of **Kirmizi** and **Skirt pistachios**.  
+This repository contains an implementation of an **Autoencoder for Image Denoising**, trained on a dataset of **Kirmizi** and **Siirt pistachios**.  
 The project demonstrates how autoencoders can be used to remove noise from images and reconstruct cleaner versions. Also compares two models for performance
 
 ---
 
 ## 📌 Project Overview
-- **Goal**: Apply autoencoder neural networks to denoise images of Kirmizi and Skirt pistachios.
+- **Goal**: Apply autoencoder neural networks to denoise images of Kirmizi and Siirt pistachios.
 - **Method**: 
   - Add random noise to the original dataset.
   - Train an autoencoder model to reconstruct the original clean images.
